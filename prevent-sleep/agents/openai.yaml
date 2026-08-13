@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prevent Sleep"
+  short_description: "Keep the computer awake during a Codex task, then release it."
+  default_prompt: "Use $prevent-sleep to run this long task without the computer sleeping."
