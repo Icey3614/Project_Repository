@@ -1,0 +1,4 @@
+interface:
+  display_name: "Computer Use Reliable"
+  short_description: "Reliable Windows desktop automation via Computer Use"
+  default_prompt: "Use $computer-use-reliable to automate desktop apps with reliable verify-and-recover mouse/keyboard steps."
