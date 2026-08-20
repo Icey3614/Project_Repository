@@ -1,39 +1,6 @@
-# Python
 __pycache__/
-*.py[cod]
-.venv/
-venv/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-*.egg-info/
-
-# Node
-node_modules/
+*.pyc
+build/
 dist/
-dist-ssr/
-*.local
-
-# Env & secrets
-.env
-.env.*
-!.env.example
-!.env.development.example
-!.env.desktop.example
-
-# IDE
-.idea/
-.vscode/
-*.swp
-
-# OS
-Thumbs.db
-.DS_Store
-
-# 桌面端构建产物
-backend-dist/
-release/
-backend/build/
-
-# 导出的源码压缩包
-CinemaTicketingPlatform-source.zip
+*.spec
+settings.json
