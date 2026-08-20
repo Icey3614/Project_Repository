@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+preview_exe.png
+exe_preview.png
+banner_config.json
+banner.log
