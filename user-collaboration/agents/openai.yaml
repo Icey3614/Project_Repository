@@ -1,0 +1,3 @@
+interface:
+  display_name: "User Collaboration"
+  short_description: "处理路径/文本歧义与用户约定，让多轮协作更默契"
