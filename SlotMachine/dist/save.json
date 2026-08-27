@@ -1,0 +1,17 @@
+{
+  "credits": 1130,
+  "bet": 10,
+  "mute": true,
+  "volume": 2,
+  "auto_delay": 0.9,
+  "lang": "zh",
+  "jackpot": 506,
+  "win_streak": 0,
+  "stats": {
+    "spins": 6,
+    "wins": 5,
+    "best": 70,
+    "total_bet": 20,
+    "total_win": 20
+  }
+}
