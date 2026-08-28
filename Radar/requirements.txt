@@ -1,0 +1,3 @@
+# 运行时无第三方依赖（仅标准库 + tkinter）
+# 构建 .exe 时只需要：
+pyinstaller>=6.0
