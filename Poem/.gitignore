@@ -1,0 +1,9 @@
+# build output
+/bin/
+/obj/
+/PoemWidget.exe
+/icon.ico
+
+# runtime artifacts written beside the exe
+/settings.json
+/poem_history.jsonl
